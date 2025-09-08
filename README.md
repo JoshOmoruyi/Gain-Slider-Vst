@@ -10,6 +10,6 @@ If on windows, I would recommend using Visual Studio 2022 to access the .sln fil
 This plugin can be used on any daw that supports vst3 files.
 
 
-video for the tutorial.
+Video for the tutorial
 
 https://www.youtube.com/watch?v=KgxHyTL9HVQ
